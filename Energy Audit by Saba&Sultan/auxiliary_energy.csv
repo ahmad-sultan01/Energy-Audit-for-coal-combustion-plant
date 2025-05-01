@@ -1,0 +1,4 @@
+Timestamp,Pump_Consumption (kW),Fan_Consumption (kW),Lighting (kW)
+2025-04-29 00:00,800,1200,100
+2025-04-29 01:00,820,1190,105
+2025-04-29 02:00,810,1185,98
